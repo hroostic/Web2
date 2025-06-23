@@ -1,0 +1,16 @@
+:root {--color1: #212121;}
+:root {--color2: #2196F3;}
+:root {--color3: #757575;}
+:root {--color4: #000000;}
+:root {--color5: #ECECEC;}
+:root {--color6: #FFFFFF;}
+:root {--color7: #2F303A;}
+:root {--color8: #F5F4FA;}
+:root {--color9: #EEEEEE;}
+
+.blue {color: var(--color2);}
+.bluebutton {background-color: var(--color2);}
+.greyback {background-color: var(--color7);}
+.whitefont {color: var(--color6);}
+.lightgrey {color: var(--color3);}
+.blackfont {color: var(--color1);}
