@@ -14,3 +14,7 @@
 .whitefont {color: var(--color6);}
 .lightgrey {color: var(--color3);}
 .blackfont {color: var(--color1);}
+
+body {font-family: 'Roboto', sans-serif;}
+header>h1 {font-family: 'Raleway', sans-serif;}
+footer>h2 {font-family: 'Raleway', sans-serif;}
