@@ -18,3 +18,15 @@
 body {font-family: 'Roboto', sans-serif;}
 header>h1 {font-family: 'Raleway', sans-serif;}
 footer>h2 {font-family: 'Raleway', sans-serif;}
+.container {width: 1600px; height: 648px; margin: auto 0;}
+.section-container {width: 270px; display: inline-block;}
+.effective-buisness-container {width: 1600px; height: 600px; margin: 0 auto;}
+.effective-buisness {width: 696px; height: 120px; margin: auto auto; font-size: 44px;}
+.effective-buisness-button {width: 216px; height: 50px;}
+.what-we-do {width: 1170px; margin: 0 auto;}
+.special {margin: 0 387px}
+.list {display: inline-block;}
+.our-team {width: 1170px; margin: auto;}
+.footer {height: 252px; width: 1600px;}
+.filters {width: 575px; margin: 0 auto;}
+.project {width: 370px; height: 404px; display: inline-block;}
